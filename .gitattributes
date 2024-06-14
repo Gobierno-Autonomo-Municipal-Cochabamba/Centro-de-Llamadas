@@ -1,0 +1,8 @@
+# Archivo de configuración que especifica atributos específicos para archivos en el repositorio, como manejo de fin de línea, binarios, etc.
+
+*.md text
+*.sh eol=lf
+*.php text
+*.ts text
+*.json text
+*.yml text
