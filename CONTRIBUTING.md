@@ -1,5 +1,5 @@
 # Guía para Contribuir
-| <img src="./assets/main/logo-contribucion.png" alt="Logo" width="100"/> | Instrucciones para contribuir al sistema. Puede incluir guías sobre cómo reportar errores, sugerir mejoras, y enviar solicitudes de extracción. |
+| <img src="./assets/main/logo-contribucion.png" alt="Logo" width="300"/> | Instrucciones para contribuir al sistema. Puede incluir guías sobre cómo reportar errores, sugerir mejoras, y enviar solicitudes de extracción. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Cómo Contribuir

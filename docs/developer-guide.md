@@ -1,5 +1,5 @@
 # Guía del Desarrollador
-| <img src="../assets/docs/logo-guia de desarrolador.png" alt="Logo" width="100"/> | Esta guía proporciona información para desarrolladores que deseen contribuir al sistema. |
+| <img src="../assets/docs/logo-guia de desarrolador.png" alt="Logo" width="300"/> | Esta guía proporciona información para desarrolladores que deseen contribuir al sistema. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Tecnologías Utilizadas

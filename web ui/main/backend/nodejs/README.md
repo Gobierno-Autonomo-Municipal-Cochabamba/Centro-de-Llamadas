@@ -1,7 +1,6 @@
 # Sistema Web Integral de Reclamos y Denuncias - Backend (Node.js/NestJS)
-
-## Descripción
-Este proyecto es el backend del Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba, desarrollado con Node.js y NestJS.
+| <img src="../../../../assets/main/backend/logo-entornos.png" alt="Logo" width="300"/> | Este proyecto es el backend del Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba, desarrollado con Node.js y NestJS. |
+|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Instalación
 1. Clona el repositorio: `git clone https://github.com/Gobierno-Autonomo-Municipal-Cochabamba/Centro-de-Llamadas.git`

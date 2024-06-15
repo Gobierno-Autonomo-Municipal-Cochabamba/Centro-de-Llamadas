@@ -1,5 +1,5 @@
 # Plantilla para Issues
-| <img src="../assets/github/logo-garantia.png" alt="Logo" width="100"/> | Plantillas para crear issues en GitHub. Puede incluir secciones predefinidas para describir errores, sugerencias, etc. |
+| <img src="../assets/github/logo-garantia.png" alt="Logo" width="300"/> | Plantillas para crear issues en GitHub. Puede incluir secciones predefinidas para describir errores, sugerencias, etc. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Descripción del Problema

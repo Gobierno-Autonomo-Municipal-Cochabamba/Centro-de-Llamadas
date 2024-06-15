@@ -1,5 +1,5 @@
 # Arquitectura del Sistema
-| <img src="../assets/docs/logo-arquitectura.jpg" alt="Logo" width="100"/> | Este documento describe la arquitectura del Sistema Web Integral de Reclamos y Denuncias. |
+| <img src="../assets/docs/logo-arquitectura.jpg" alt="Logo" width="300"/> | Este documento describe la arquitectura del Sistema Web Integral de Reclamos y Denuncias. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Componentes Principales

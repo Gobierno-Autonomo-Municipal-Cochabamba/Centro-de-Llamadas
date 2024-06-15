@@ -1,7 +1,6 @@
 # Sistema Web Integral de Reclamos y Denuncias - Backend (Laravel)
-
-## Descripción
-Este proyecto es el backend del Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba, desarrollado con Laravel.
+| <img src="../../../../assets/main/backend/logo-laravel.png" alt="Logo" width="300"/> | Este proyecto es el backend del Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba, desarrollado con Laravel. |
+|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Instalación
 1. Clona el repositorio: `git clone https://github.com/Gobierno-Autonomo-Municipal-Cochabamba/Centro-de-Llamadas.git`

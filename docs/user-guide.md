@@ -1,5 +1,5 @@
 # Guía de Usuario
-| <img src="../assets/docs/logo-guia de usuario.jpg" alt="Logo" width="100"/> | Esta guía proporciona instrucciones detalladas sobre cómo utilizar el Sistema Web Integral de Reclamos y Denuncias. |
+| <img src="../assets/docs/logo-guia de usuario.jpg" alt="Logo" width="300"/> | Esta guía proporciona instrucciones detalladas sobre cómo utilizar el Sistema Web Integral de Reclamos y Denuncias. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Funcionalidades Principales

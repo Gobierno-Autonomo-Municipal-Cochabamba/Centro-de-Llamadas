@@ -1,5 +1,5 @@
 # Documentación del Proyecto
-| <img src="../assets/docs/logo-documentaciones.jpg" alt="Logo" width="100"/> | Este directorio contiene toda la documentación relevante para el Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba. |
+| <img src="../assets/docs/logo-documentaciones.jpg" alt="Logo" width="300"/> | Este directorio contiene toda la documentación relevante para el Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Contenido

@@ -1,5 +1,5 @@
 # Política de Seguridad
-| <img src="./assets/main/logo-seguridad.jpg" alt="Logo" width="100"/> | Instrucciones sobre cómo reportar vulnerabilidades de seguridad en el sistema. Esto ayuda a gestionar y mitigar problemas de seguridad de manera responsable. |
+| <img src="./assets/main/logo-seguridad.jpg" alt="Logo" width="300"/> | Instrucciones sobre cómo reportar vulnerabilidades de seguridad en el sistema. Esto ayuda a gestionar y mitigar problemas de seguridad de manera responsable. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Reportar Vulnerabilidades

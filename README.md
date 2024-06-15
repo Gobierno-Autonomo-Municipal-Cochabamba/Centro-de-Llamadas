@@ -1,5 +1,5 @@
 # Centro de Llamadas
-| <img src="./assets/main/logo-centro de llamadas.jpg" alt="Logo" width="100"/> | Nuevo sistema integral de reclamos/denuncias para atención al ciudadano, mejorando la eficiencia y transparencia en la gestión municipal y promoviendo una ciudad más conectada y participativa. |
+| <img src="./assets/main/logo-centro de llamadas.jpg" alt="Logo" width="300"/> | Nuevo sistema integral de reclamos/denuncias para atención al ciudadano, mejorando la eficiencia y transparencia en la gestión municipal y promoviendo una ciudad más conectada y participativa. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Tecnologías Utilizadas

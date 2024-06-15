@@ -1,5 +1,5 @@
 # Diseño del Sistema
-| <img src="../assets/docs/logo-diseño.png" alt="Logo" width="100"/> | Este documento detalla el diseño del Sistema Web Integral de Reclamos y Denuncias, incluyendo la interfaz de usuario y la experiencia del usuario. |
+| <img src="../assets/docs/logo-diseño.png" alt="Logo" width="300"/> | Este documento detalla el diseño del Sistema Web Integral de Reclamos y Denuncias, incluyendo la interfaz de usuario y la experiencia del usuario. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Diseño de la Interfaz de Usuario (UI)

@@ -1,5 +1,5 @@
 # Plantilla para Pull Requests
-| <img src="../assets/github/logo-solicitud.jpeg" alt="Logo" width="100"/> | Plantillas para solicitudes de extracción (pull requests) en GitHub. Esto ayuda a los colaboradores a proporcionar toda la información necesaria al enviar cambios. |
+| <img src="../assets/github/logo-solicitud.jpeg" alt="Logo" width="300"/> | Plantillas para solicitudes de extracción (pull requests) en GitHub. Esto ayuda a los colaboradores a proporcionar toda la información necesaria al enviar cambios. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Descripción

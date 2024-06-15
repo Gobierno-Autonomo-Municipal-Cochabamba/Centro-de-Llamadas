@@ -1,5 +1,5 @@
 # Código de Conducta
-| <img src="./assets/main/logo-codigo de conducta.png" alt="Logo" width="100"/> | Define los estándares de comportamiento esperados de los colaboradores del sistema. Es útil para mantener un entorno de contribución positivo. |
+| <img src="./assets/main/logo-codigo de conducta.png" alt="Logo" width="300"/> | Define los estándares de comportamiento esperados de los colaboradores del sistema. Es útil para mantener un entorno de contribución positivo. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Nuestro Compromiso

@@ -1,7 +1,6 @@
 # Sistema Web Integral de Reclamos y Denuncias - Frontend
-
-## Descripción
-Este proyecto es el frontend del Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba.
+| <img src="../../../assets/main/frontend/logo-angular.jpg" alt="Logo" width="300"/> | Este proyecto es el frontend del Sistema Web Integral de Reclamos y Denuncias de la Alcaldía de Cochabamba. |
+|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Instalación
 1. Clona el repositorio: `git clone https://github.com/Gobierno-Autonomo-Municipal-Cochabamba/Centro-de-Llamadas.git`

@@ -1,5 +1,5 @@
 # Dependencias del Proyecto
-| <img src="./assets/main/logo-dependencias.png" alt="Logo" width="100"/> | Lista y descripción de las dependencias del sistema, junto con las versiones y enlaces a sus repositorios o sitios web. |
+| <img src="./assets/main/logo-dependencias.png" alt="Logo" width="300"/> | Lista y descripción de las dependencias del sistema, junto con las versiones y enlaces a sus repositorios o sitios web. |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Frontend
