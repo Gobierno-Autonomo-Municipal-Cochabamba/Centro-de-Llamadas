@@ -17,4 +17,3 @@ Para reportar cualquier comportamiento que no cumpla con este código de conduct
 - [Contribuciones](CONTRIBUTING.md): Obtener detalles sobre nuestro código de conducta y el proceso para enviar pull requests.
 - [Changelog](CHANGELOG.md): Registro de todos los cambios importantes del proyecto.
 - [Dependencias](DEPENDENCIES.md): Lista y descripción de las dependencias del proyecto.
-- [Seguridad](SECURITY.md): Instrucciones para reportar vulnerabilidades de seguridad.

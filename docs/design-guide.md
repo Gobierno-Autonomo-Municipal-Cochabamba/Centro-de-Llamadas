@@ -43,6 +43,7 @@ Puedes acceder a los prototipos de diseño UI/UX en Figma a través del siguient
 
 ### Formulario de Reclamo/Denuncia
 ![Formulario de Reclamo](https://www.figma.com/proto/AQDYfvSV9g8uzWtasWxgzP/Centro-de-Llamadas?node-id=147-6985&t=zYiAvsNEIZC0zPnD-1&scaling=scale-down-width&content-scaling=fixed&page-id=2%3A2&starting-point-node-id=483%3A797&show-proto-sidebar=1)
+
 ![Formulario de Denuncia](https://www.figma.com/proto/AQDYfvSV9g8uzWtasWxgzP/Centro-de-Llamadas?node-id=147-5232&t=zYiAvsNEIZC0zPnD-1&scaling=scale-down-width&content-scaling=fixed&page-id=2%3A2&starting-point-node-id=483%3A797&show-proto-sidebar=1)
 
 ## Consideraciones de Diseño
