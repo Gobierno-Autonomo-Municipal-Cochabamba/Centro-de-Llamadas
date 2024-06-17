@@ -1,4 +1,4 @@
-# Configuración de integración continua.
+# Configuración de integración continua
 
 name: CI
 
@@ -6,4 +6,17 @@ on: [push, pull_request]
 
 jobs:
   build:
+    if: false # Esta condición impide que el job se ejecute
     runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Display a message
+      run: echo "Esto es una configuración básica de CI para futuras integraciones."

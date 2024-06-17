@@ -1,5 +1,5 @@
 # Guía del Desarrollador
-| <img src="../assets/docs/logo-guia de desarrolador.png" alt="Logo" width="100"/> | Esta guía proporciona información para desarrolladores que deseen contribuir al sistema. |
+| <img src="../assets/images/logo-guia de desarrolador.png" alt="Logo" width="300" style="border-radius: 15px;"/> | **Esta guía proporciona información para desarrolladores que deseen contribuir al sistema.** |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Tecnologías Utilizadas
@@ -8,11 +8,13 @@
 - **Base de Datos**: PostgreSQL
 
 ## Estructura del Proyecto
-- `src/main`: Contiene el código fuente principal.
-- `src/test`: Contiene las pruebas unitarias y de integración.
+- `web app`: Contiene el código fuente principal.
 
 ## Cómo Contribuir
 1. Clona el repositorio.
 2. Crea una nueva rama para tu feature.
 3. Realiza tus cambios.
 4. Envía un pull request.
+
+> [!TIP]
+> [Guia del Desarrollador]("https://...")

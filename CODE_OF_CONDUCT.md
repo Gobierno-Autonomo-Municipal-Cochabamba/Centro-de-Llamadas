@@ -1,5 +1,5 @@
 # Código de Conducta
-| <img src="./assets/main/logo-codigo de conducta.png" alt="Logo" width="100"/> | Define los estándares de comportamiento esperados de los colaboradores del sistema. Es útil para mantener un entorno de contribución positivo. |
+| <img src="./assets/images/logo-codigo de conducta.png" alt="Logo" width="300" style="border-radius: 15px;"/> | **Define los estándares de comportamiento esperados de los colaboradores del sistema. Es útil para mantener un entorno de contribución positivo.** |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Nuestro Compromiso
@@ -13,8 +13,7 @@ Nos comprometemos a proporcionar un ambiente acogedor y seguro para todos, indep
 ## Informes de Comportamiento Inaceptable
 Para reportar cualquier comportamiento que no cumpla con este código de conducta, por favor contacta a rsainz.cocha@gmail.com
 
-## Leer mas archivos
-- [Contribuciones](CONTRIBUTING.md): Obtener detalles sobre nuestro código de conducta y el proceso para enviar pull requests.
-- [Changelog](CHANGELOG.md): Registro de todos los cambios importantes del proyecto.
-- [Dependencias](DEPENDENCIES.md): Lista y descripción de las dependencias del proyecto.
-- [Seguridad](SECURITY.md): Instrucciones para reportar vulnerabilidades de seguridad.
+> [!IMPORTANT]
+> [Contribuciones](CONTRIBUTING.md): Obtener detalles sobre nuestro código de conducta y el proceso para enviar pull requests.
+> [Changelog](CHANGELOG.md): Registro de todos los cambios importantes del proyecto.
+> [Dependencias](DEPENDENCIES.md): Lista y descripción de las dependencias del proyecto.
